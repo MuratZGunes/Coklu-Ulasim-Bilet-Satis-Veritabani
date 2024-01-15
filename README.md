@@ -74,6 +74,7 @@ KategoriID (Anahtar): Uçuş kategorisinin benzersiz kimliği.
 KategoriAdi: Uçuş kategorisinin adı.
 
 ## Notlar:
+Veri Tabanının içinde örnek veriler vardır.
 Veritabanı, MySQL 8.0.35 sürümü için oluşturulmuştur.
 Tablolar arasındaki ilişkiler, foreign key (yabancı anahtar) kullanılarak kurulmuştur.
 Veritabanı, müşteri bilgileri, rezervasyonlar, ödemeler ve taşıma birimleri gibi temel bileşenleri içerir.
